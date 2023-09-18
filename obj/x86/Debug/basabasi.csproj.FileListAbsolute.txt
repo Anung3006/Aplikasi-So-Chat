@@ -1,0 +1,17 @@
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Debug\basabasi.Form1.resources
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Debug\basabasi.Form2.resources
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Debug\basabasi.Form3.resources
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Debug\basabasi.Form4.resources
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Debug\basabasi.Properties.Resources.resources
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Debug\basabasi.csproj.GenerateResource.Cache
+D:\project\aplikasi smt 4\basabasi\basabasi\bin\Debug\basabasi.exe.config
+D:\project\aplikasi smt 4\basabasi\basabasi\bin\Debug\basabasi.exe
+D:\project\aplikasi smt 4\basabasi\basabasi\bin\Debug\basabasi.pdb
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Debug\basabasi.exe
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Debug\basabasi.pdb
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Debug\basabasi.Form5.resources
+D:\project\aplikasi smt 4\basabasi\basabasi\bin\Debug\basabasi.exe.manifest
+D:\project\aplikasi smt 4\basabasi\basabasi\bin\Debug\basabasi.application
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Debug\basabasi.csprojResolveAssemblyReference.cache
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Debug\basabasi.exe.manifest
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Debug\basabasi.application

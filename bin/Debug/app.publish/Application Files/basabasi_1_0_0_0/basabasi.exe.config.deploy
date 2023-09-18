@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="basabasi.Properties.Settings.ConnectionString" connectionString="Provider=SQLOLEDB;Data Source=DESKTOP-TIVTC5O\SQLEXPRESS;Integrated Security=SSPI;Initial Catalog=basabasi"
+            providerName="System.Data.OleDb" />
+    </connectionStrings>
+</configuration>

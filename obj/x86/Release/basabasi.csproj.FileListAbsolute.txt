@@ -1,0 +1,7 @@
+D:\project\aplikasi smt 4\basabasi\basabasi\bin\Release\basabasi.exe.config
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Release\basabasi.Form1.resources
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Release\basabasi.Form2.resources
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Release\basabasi.Form3.resources
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Release\basabasi.Form4.resources
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Release\basabasi.Properties.Resources.resources
+D:\project\aplikasi smt 4\basabasi\basabasi\obj\x86\Release\basabasi.csproj.GenerateResource.Cache
